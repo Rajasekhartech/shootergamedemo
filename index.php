@@ -1,3 +1,3 @@
 <?php
-include_once("GotShot.html");
+include_once("GotShoot.html");
 ?>
